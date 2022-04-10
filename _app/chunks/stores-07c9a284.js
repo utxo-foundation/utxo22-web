@@ -1,1 +1,0 @@
-import{w as t}from"./index-12cd9245.js";const a=t(null),e=t(null),o=t({count:1,email:"",tickets:[],paymentMethod:"btcpay",tipPercent:10,tipCustom:"",__v:2}),r=t({favoriteEvents:[],hpTrack:"top",orders:[],tickets:[]}),c=t({tickets:[],orders:[]});export{r as a,a as b,e as c,o,c as u};
