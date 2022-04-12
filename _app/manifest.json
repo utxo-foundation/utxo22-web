@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-90af3063.js",
+    "file": "start-4409cc37.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -81,7 +81,7 @@
     ]
   },
   "src/routes/udalosti.svelte": {
-    "file": "pages/udalosti.svelte-8b33fa35.js",
+    "file": "pages/udalosti.svelte-00cc0668.js",
     "src": "src/routes/udalosti.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
