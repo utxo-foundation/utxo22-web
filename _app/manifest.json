@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-aa6d3b0f.js",
+    "file": "start-11faf81e.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -33,7 +33,7 @@
       "_index-7ffe3f10.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-3b20e1c5.css"
+      "assets/pages/__layout.svelte-a7e8dfa1.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -68,7 +68,7 @@
     ]
   },
   "src/routes/navstevnici.svelte": {
-    "file": "pages/navstevnici.svelte-63b91ddc.js",
+    "file": "pages/navstevnici.svelte-135de947.js",
     "src": "src/routes/navstevnici.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
