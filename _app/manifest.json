@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-6564c8b0.js",
+    "file": "start-42f39773.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -21,7 +21,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-c09d14fc.js",
+    "file": "pages/__layout.svelte-8bddf55f.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -29,8 +29,7 @@
       "_index-6191a390.js",
       "_stores-bd0963f1.js",
       "_stores-9e69a8a9.js",
-      "_api-558edae0.js",
-      "_orders-f93f5bd5.js",
+      "_orders-db4eae09.js",
       "_index-7ffe3f10.js"
     ],
     "css": [
@@ -69,20 +68,20 @@
     ]
   },
   "src/routes/navstevnici.svelte": {
-    "file": "pages/navstevnici.svelte-1402cf76.js",
+    "file": "pages/navstevnici.svelte-1bb07c1f.js",
     "src": "src/routes/navstevnici.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-6191a390.js",
       "_stores-9e69a8a9.js",
-      "_api-558edae0.js",
+      "_orders-db4eae09.js",
       "_index-b3e7a85f.js",
       "_index-7ffe3f10.js"
     ]
   },
   "src/routes/vstupenky.svelte": {
-    "file": "pages/vstupenky.svelte-fecfcacd.js",
+    "file": "pages/vstupenky.svelte-72aff1be.js",
     "src": "src/routes/vstupenky.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -90,11 +89,10 @@
       "_index-6191a390.js",
       "_Link-79f22491.js",
       "_stores-9e69a8a9.js",
-      "_api-558edae0.js",
+      "_orders-db4eae09.js",
       "__commonjsHelpers-c771f69b.js",
       "_stores-bd0963f1.js",
       "_navigation-0e6511d1.js",
-      "_orders-f93f5bd5.js",
       "_index-b3e7a85f.js",
       "_index-7ffe3f10.js",
       "_singletons-d1fb5791.js"
@@ -164,8 +162,8 @@
   "_singletons-d1fb5791.js": {
     "file": "chunks/singletons-d1fb5791.js"
   },
-  "_api-558edae0.js": {
-    "file": "chunks/api-558edae0.js",
+  "_orders-db4eae09.js": {
+    "file": "chunks/orders-db4eae09.js",
     "imports": [
       "_stores-9e69a8a9.js"
     ]
@@ -180,13 +178,6 @@
     "file": "chunks/stores-9e69a8a9.js",
     "imports": [
       "_index-7ffe3f10.js"
-    ]
-  },
-  "_orders-f93f5bd5.js": {
-    "file": "chunks/orders-f93f5bd5.js",
-    "imports": [
-      "_stores-9e69a8a9.js",
-      "_api-558edae0.js"
     ]
   },
   "_Avatar-a90bc8ec.js": {
