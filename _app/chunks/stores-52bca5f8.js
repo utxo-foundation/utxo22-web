@@ -1,0 +1,1 @@
+import{w as t}from"./index-3ca188ce.js";const s=t(null),o=t(null),e=t({count:1,email:"",tickets:[],paymentMethod:"btcpay",tipPercent:10,tipCustom:"",__v:2}),c=t({favoriteEvents:[],hpTrack:"top",orders:[],tickets:[]}),r=t({tickets:[],orders:[]}),n=t({loaded:!1});export{o as a,s as b,c,n as l,e as o,r as u};
