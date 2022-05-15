@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-edb5d38d.js",
+    "file": "start-a589b89f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -16,6 +16,7 @@
       "src/routes/specialni-vstupenky.svelte",
       "src/routes/gratulujeme.svelte",
       "src/routes/navstevnici.svelte",
+      "src/routes/casova-osa.svelte",
       "src/routes/changelog.svelte",
       "src/routes/vstupenky.svelte",
       "src/routes/udalosti.svelte",
@@ -24,7 +25,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-9de33aed.js",
+    "file": "pages/__layout.svelte-c37985a4.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -32,12 +33,12 @@
       "_index-12086f65.js",
       "_stores-ef119e9f.js",
       "_stores-52bca5f8.js",
-      "_api-7bc0ed4a.js",
-      "_orders-98754979.js",
+      "_api-11aa1799.js",
+      "_orders-b3edd38c.js",
       "_index-3ca188ce.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-93116476.css"
+      "assets/pages/__layout.svelte-34652ac6.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
@@ -66,7 +67,7 @@
     ]
   },
   "src/routes/vyzvednuti-vstupenky.svelte": {
-    "file": "pages/vyzvednuti-vstupenky.svelte-a046cdf6.js",
+    "file": "pages/vyzvednuti-vstupenky.svelte-71735ac9.js",
     "src": "src/routes/vyzvednuti-vstupenky.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -76,7 +77,7 @@
       "_navigation-0e6511d1.js",
       "_stores-ef119e9f.js",
       "_index-8490bb7e.js",
-      "_api-7bc0ed4a.js",
+      "_api-11aa1799.js",
       "_Avatar-59d6497a.js",
       "_index-3ca188ce.js",
       "_singletons-d1fb5791.js",
@@ -84,7 +85,7 @@
     ]
   },
   "src/routes/specialni-vstupenky.svelte": {
-    "file": "pages/specialni-vstupenky.svelte-433d44be.js",
+    "file": "pages/specialni-vstupenky.svelte-5fd9ef17.js",
     "src": "src/routes/specialni-vstupenky.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -92,7 +93,7 @@
       "_index-12086f65.js",
       "_stores-52bca5f8.js",
       "_Avatar-59d6497a.js",
-      "_api-7bc0ed4a.js",
+      "_api-11aa1799.js",
       "_index-921d3fdd.js",
       "_index-3ca188ce.js",
       "_Link-1399ee4f.js"
@@ -108,16 +109,30 @@
     ]
   },
   "src/routes/navstevnici.svelte": {
-    "file": "pages/navstevnici.svelte-a6ebda30.js",
+    "file": "pages/navstevnici.svelte-50fff4b0.js",
     "src": "src/routes/navstevnici.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-12086f65.js",
       "_stores-52bca5f8.js",
-      "_api-7bc0ed4a.js",
-      "_index-84523b11.js",
-      "_orders-98754979.js",
+      "_api-11aa1799.js",
+      "_index-b565a00d.js",
+      "_orders-b3edd38c.js",
+      "_index-921d3fdd.js",
+      "_index-3ca188ce.js",
+      "_index-c2100bd5.js"
+    ]
+  },
+  "src/routes/casova-osa.svelte": {
+    "file": "pages/casova-osa.svelte-44e8c668.js",
+    "src": "src/routes/casova-osa.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-12086f65.js",
+      "_stores-52bca5f8.js",
+      "_index-c2100bd5.js",
       "_index-921d3fdd.js",
       "_index-3ca188ce.js"
     ]
@@ -135,7 +150,7 @@
     ]
   },
   "src/routes/vstupenky.svelte": {
-    "file": "pages/vstupenky.svelte-49713b55.js",
+    "file": "pages/vstupenky.svelte-19a28156.js",
     "src": "src/routes/vstupenky.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -145,15 +160,16 @@
       "_Link-1399ee4f.js",
       "__commonjsHelpers-c771f69b.js",
       "_stores-52bca5f8.js",
-      "_api-7bc0ed4a.js",
+      "_api-11aa1799.js",
       "_stores-ef119e9f.js",
       "_navigation-0e6511d1.js",
-      "_orders-98754979.js",
+      "_orders-b3edd38c.js",
       "_Avatar-59d6497a.js",
       "_index-921d3fdd.js",
-      "_index-84523b11.js",
+      "_index-b565a00d.js",
       "_index-3ca188ce.js",
-      "_singletons-d1fb5791.js"
+      "_singletons-d1fb5791.js",
+      "_index-c2100bd5.js"
     ],
     "css": [
       "assets/pages/vstupenky.svelte-f7044c2c.css"
@@ -226,8 +242,8 @@
   "_singletons-d1fb5791.js": {
     "file": "chunks/singletons-d1fb5791.js"
   },
-  "_api-7bc0ed4a.js": {
-    "file": "chunks/api-7bc0ed4a.js",
+  "_api-11aa1799.js": {
+    "file": "chunks/api-11aa1799.js",
     "imports": [
       "_stores-52bca5f8.js"
     ]
@@ -244,11 +260,11 @@
       "_index-3ca188ce.js"
     ]
   },
-  "_orders-98754979.js": {
-    "file": "chunks/orders-98754979.js",
+  "_orders-b3edd38c.js": {
+    "file": "chunks/orders-b3edd38c.js",
     "imports": [
       "_stores-52bca5f8.js",
-      "_api-7bc0ed4a.js"
+      "_api-11aa1799.js"
     ]
   },
   "_Avatar-59d6497a.js": {
@@ -276,8 +292,15 @@
   "_index-921d3fdd.js": {
     "file": "chunks/index-921d3fdd.js"
   },
-  "_index-84523b11.js": {
-    "file": "chunks/index-84523b11.js",
+  "_index-b565a00d.js": {
+    "file": "chunks/index-b565a00d.js",
+    "imports": [
+      "_index-c2100bd5.js",
+      "_index-921d3fdd.js"
+    ]
+  },
+  "_index-c2100bd5.js": {
+    "file": "chunks/index-c2100bd5.js",
     "imports": [
       "_index-921d3fdd.js"
     ]
