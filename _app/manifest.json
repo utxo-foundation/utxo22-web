@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-5627d270.js",
+    "file": "start-2413fc8e.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -308,7 +308,7 @@
     ]
   },
   "src/routes/fotky.svelte": {
-    "file": "pages/fotky.svelte-12eb0864.js",
+    "file": "pages/fotky.svelte-2a246afa.js",
     "src": "src/routes/fotky.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
